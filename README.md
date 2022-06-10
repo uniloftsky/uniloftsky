@@ -11,7 +11,6 @@ Email: uniloftsky@gmail.com<br>
 ![](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=00ae46)
 ![](https://img.shields.io/badge/-Maven-da002f?style=for-the-badge&logo=maven&logoColor=00ae46)
 ![](https://img.shields.io/badge/-junit5-005a31?style=for-the-badge&logo=junit5&logoColor=bc3138)
-![](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=f23423)
 
 <h3>Also familiar with:</h3>
 
